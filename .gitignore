@@ -1,0 +1,18 @@
+# a.out
+a.out
+
+# test
+test.c
+test.o
+test.s
+main
+*.dump
+
+# vscode
+.vscode/
+
+# *.o
+*.o
+
+# *.s
+*.s
